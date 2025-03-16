@@ -1,6 +1,6 @@
 # Hello, I'm Gabriel  Arruda
 
-**Dr. Student in Economics at UFSC**
+**Ph.D. Student in Economics at UFSC**
 
 I am passionate about **time series econometrics**, with applications in macroeconomics and finance. Currently, I focus on deepening my knowledge in economic modeling, utilizing tools that optimize the analysis and forecasting of economic behavior. I’m currently working on book of [time series](https://github.com/g-arruda/series-temporais).
 
