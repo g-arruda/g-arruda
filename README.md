@@ -2,7 +2,7 @@
 
 **Ph.D. Student in Economics at UFSC**
 
-My research focuses on **time series econometrics**, with applications in macroeconomics and finance. Currently, I focus on deepening my knowledge in economic modeling, utilizing tools that optimize the analysis and forecasting of economic behavior. I’m currently working on book of [time series](https://github.com/g-arruda/series-temporais).
+I am interested in **time series econometrics**, with applications in macroeconomics and finance. Currently, I focus on deepening my knowledge in economic modeling, utilizing tools that optimize the analysis and forecasting of economic behavior. I’m currently working on book of [time series](https://github.com/g-arruda/series-temporais).
 
 ## Tools
 
