@@ -7,12 +7,12 @@ I am interested in **time series econometrics**, with applications in macroecono
 ## Tools
 
 - **R:** Advanced expertise for analyses, econometric modeling, process automation, and web scraping.
-- **Python:** Currently learning to expand my data processing and automation capabilities.
+- **Python:** Currently learning .
 - **Julia:** Growing interest to enhance computational model performance.
 
 ## Why GitHub?
 
-I use GitHub as a space to **organize my projects** and apply version control with Git, which allows me to continuously track and improve my work. I strongly believe that knowledge should be **free and public**, contributing to the community and helping those in need of resources and references in the field.
+I use GitHub as a space to **organize my projects**. I strongly believe that knowledge should be **free and public**, contributing to the community and helping those in need of resources and references in the field.
 
 ## Contribution and Collaboration
 
@@ -20,7 +20,6 @@ I am always open to collaborating on projects and initiatives involving:
 - Econometric 
 - Macroeconomics
 - Finance
-- Process automation
 
 ## Contact
 - Email: g.arruda@hotmail.com
